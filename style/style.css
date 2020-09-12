@@ -1,0 +1,72 @@
+body {
+    background: #d2d2c1 url("/res/fundo.png");
+}
+
+a {
+    text-decoration: none;
+    color: #4b566a;
+}
+
+footer {
+    width: 70vw;
+    text-align: center;
+}
+
+a:hover{
+    opacity: 0.8;
+}
+
+header {
+    background-color: #c5c5b2;
+    text-decoration: none;
+    height: 50px;
+    width: 70vw;
+}
+
+ul {
+    margin-top: 1px;
+    list-style: none;
+    color: rgb(59, 59, 66);
+}
+
+header li {
+    margin-top: 15px;
+    display: inline-block;
+    font-weight: 700;
+}
+
+.logo img{
+    width: 70vw;
+}
+
+.about {
+    margin: -20px 0px;
+    margin-right: 5px;
+    background-color: rgb(255, 247, 235);
+    width: 70vw;
+}
+
+.about h2 {
+    color: #828271;
+}
+
+.campaings {
+    margin: -20px 0px;
+    margin-right: 5px;
+    background-color: rgb(255, 247, 235);
+    width: 70vw;
+}
+
+.campaings h2 {
+    color: #828271;
+}
+
+.campaings img {
+    border: #828271 groove 10px;
+    border-style: groove;
+    border-color: #828271;
+}
+
+.contact-list {
+    padding: 0;
+}
